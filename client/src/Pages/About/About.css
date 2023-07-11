@@ -1,0 +1,21 @@
+.team-heading{
+    text-align: center;
+    margin: 1rem;
+    padding: 1rem;
+}
+
+.container-name{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.profiles{
+    height: 350px;
+    width: 300px;
+}
+
+.names{
+    text-align: center;
+    padding: 1rem 0;
+}

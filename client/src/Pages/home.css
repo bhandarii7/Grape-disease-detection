@@ -1,0 +1,46 @@
+.home{
+    display: flex;
+    justify-content: space-around;
+    align-items: center; 
+    padding: 1rem 0;
+    margin-bottom: 5rem;
+    height: 700px;
+    width: 100%;
+    background-image: url(../Images/mainleaf.jpg);
+    object-fit: fill;
+    background-repeat: no-repeat;
+    background-size:100% 100%;
+}
+
+.heading{
+    color: white;
+    margin-top: 2rem;
+
+}
+
+.info-section{
+    display: flex;
+    justify-content: space-around;
+    /* align-items: center; */
+    padding: 2rem;
+}
+
+
+.info-section> img{
+    height: 20rem;
+}
+
+.info-section> div{
+    width: 60%;
+}
+
+.info-section> div>h1{
+    margin-bottom: 2rem;
+    text-align: left;
+}
+
+.info-section> div> p{
+    text-align: justify;
+    font-size: larger;
+    /* width: 80%; */
+}
